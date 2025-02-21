@@ -1,4 +1,4 @@
-# promtool-distro
+d# promtool-distro
 
 Download promtool 
 make the file executable: $ chmod +x promtool
@@ -28,7 +28,7 @@ Server started. Hit ^C to exit.
 ... other stuff ...
 ```
 
-6. Documentation is coming soon. To use it you will need some files in your $PROMTOOL_HOME directory. Copy the files in this repo's /promtool-home into your promtool home. When that's done it should look something like this:
+6. Documentation is coming soon. To use it you will need some files in your $PROMTOOL_HOME directory. This is just testing data for development use, but you can use it to get started with for now. Copy the files in this repo's /promtool-home into your promtool home. When that's done it should look something like this:
 
 ```
 $ tree $PROMTOOL_HOME
