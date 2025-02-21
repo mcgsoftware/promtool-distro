@@ -1,7 +1,7 @@
-d# promtool-distro
+# promtool-distro
 
-Download promtool 
-make the file executable: $ chmod +x promtool
+a. Download promtool 
+b. make the file executable: $ chmod +x promtool
 
 for the first time, you need to launch from Apple Finder, using 'file open'. It will show a popup asking for your permission to run it. (say yes). It should launch and shell and run it. Exit that. 
 
