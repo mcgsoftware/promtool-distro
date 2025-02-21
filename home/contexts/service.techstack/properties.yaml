@@ -1,0 +1,6 @@
+object-id: service.techstack
+kind: context
+label: Tech stack for a service
+summary: Explain the tech stack your service uses
+published: true
+includes:

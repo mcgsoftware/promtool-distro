@@ -1,0 +1,16 @@
+
+# 
+# Define the labels for Prompt namespaces shown in the navigation web UI
+# This makes them more self-explanatory in the UI.
+#
+# The key is the namespace name (similar to java package naming conventions), 
+# and the value is the label to display in the UI.
+# Example: folder /service.controller.add-endpoint => {namespace: 'service.controller', prompt_object: 'add-endpoint'}
+#
+# YAML Key: namespace, Value: label to display in the UI
+service: Microservice prompts
+service.controller: Spring Controller prompts
+rdbms: MySQL and Postgres prompts
+
+
+

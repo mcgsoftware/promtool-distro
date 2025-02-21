@@ -1,0 +1,15 @@
+# promtool config parameters.
+
+config:
+  MySqlDSN:     root:multiscan@tcp(127.0.0.1:3306)/promtool
+  OpenAiKey:
+  ServerPort:   9000
+  PromtoolHome: 
+  useAi:        true
+  useMySql:     false
+  debug:        true
+
+
+output:
+  code: "~/tmp/example/code"
+  doc: "~/tmp/example/doc"

@@ -1,0 +1,20 @@
+# Microservice java package and class naming conventions
+
+## Codeing instructions
+Follow the strategy in table to generate code using the java package and class naming conventions.
+
+| Purpose                    | Java Package Conventions       | Java type naming |
+|----------------------------|--------------------------------|-----------------------|
+| controller impl class      | com.rcl.{{projectPackage}}.controllers    | suffix: Controller |
+| controller interfaces      | com.rcl.{{projectPackage}}.api            | suffix: Api |
+| controller request DTO     | com.rcl.{{projectPackage}}.controller.dto | suffix: Request |
+| controller response DTO    | com.rcl.{{projectPackage}}.controller.dto | suffix: Response |
+| spring service impl class  | com.rcl.{{projectPackage}}.services       | suffix: Service |
+| spring service interface   | com.rcl.{{projectPackage}}.services.api   | suffix: Service |
+| main app class             | com.rcl.{{projectPackage}}.App            | classname: App       |
+| exception definitions      | todo | todo |
+| error code definitions     | todo | todo |
+| Global exception handler   | TODO | TODO   |
+| Repository                 | TODO | TODO   |
+
+

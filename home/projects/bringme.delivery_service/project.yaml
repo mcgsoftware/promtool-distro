@@ -1,0 +1,15 @@
+# Required project metadata
+name: DeliveryService
+summary: This is the delivery service for the blue sky project
+group_id: com.example.delivery
+
+# Tech stack metadata
+tech_stack:
+  web_framework: Spring Boot 3.5
+  java_version: 17
+  concurrency_model: webflux  # webflux, mvc, virtal_threads
+  resilience: Resilience4j
+  datastore: MySQL, Couchbase
+  caching: none
+  value_objects: lombok  # lombok, immutables, record
+  validation: jakarta

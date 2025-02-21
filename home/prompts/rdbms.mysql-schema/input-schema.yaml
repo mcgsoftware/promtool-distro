@@ -1,0 +1,7 @@
+type: object
+properties:
+  dbms:
+    description: The database name we are using
+    type: string
+required:
+  - cart-store

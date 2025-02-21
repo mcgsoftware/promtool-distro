@@ -1,0 +1,7 @@
+# 
+object-id: service.controller
+kind: context
+label: Guidelines on how to code for spring controllers.
+summary: Guidelines on how to code for spring controllers and related code.
+published: true
+includes:

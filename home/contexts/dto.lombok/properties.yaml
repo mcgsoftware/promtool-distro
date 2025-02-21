@@ -1,0 +1,7 @@
+# Properties for the lombok code gen
+object-id: dto.lombok
+kind: context
+label: Context information for Lombok DTO code generation
+summary: This is context to include when your code genration needs to include Lombok annotations for DTOs
+published: true
+includes:

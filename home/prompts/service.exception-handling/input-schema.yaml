@@ -1,0 +1,8 @@
+
+type: object
+properties:
+  controller:
+    description: flag to enable logging
+    type: boolean
+required:
+  - logging

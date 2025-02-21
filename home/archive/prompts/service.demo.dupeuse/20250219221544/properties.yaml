@@ -1,0 +1,9 @@
+object-id: service.demo.dupeuse
+kind: prompt
+label: Add an endpoint to controller
+summary: 'This is a prompt for adding a NEW service component to your project. '
+published: true
+includes:
+    - service.techstack
+    - service.controller
+    - dto.lombok

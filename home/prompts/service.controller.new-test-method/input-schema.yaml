@@ -1,0 +1,7 @@
+type: object
+properties:
+  controller:
+    description: The Java classname for controller
+    type: string
+required:
+  - controller

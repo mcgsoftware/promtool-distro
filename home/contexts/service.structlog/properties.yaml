@@ -1,0 +1,6 @@
+object-id: service.structlog
+kind: context
+label: Context information for structured logging
+summary: Instructions and best practices on use of structlog.
+published: true
+includes: []

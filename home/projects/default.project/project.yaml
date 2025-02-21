@@ -1,0 +1,18 @@
+# Project information
+
+# Required project metadata
+name: DefaultProject
+summary: This is default project to use if none is specified.
+groupId: com.rcl
+  
+
+  
+techstack:
+  webframework: Spring Boot 3.4.3
+  java_version: 21
+  concurrency_model: webflux  # webflux, mvc, virtal_threads
+  resilience: Resilience4j
+  datastore: 
+  caching: 
+  value_objects: lombok  # lombok, immutables, record
+  validation: jakarta

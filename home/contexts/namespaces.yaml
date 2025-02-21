@@ -1,0 +1,13 @@
+
+# 
+# Create the documentation labels for Context namespaces. 
+# This makes them more self-explanatory in the UI.
+#
+# The key is the namespace name (similar to java package naming), 
+# and the value is the label to display in the UI for that namespace
+# Example: folder /service.dto.lombok => {namespace: 'service.dto', context_object: 'lombok'}
+#
+# YAML Key: namespace, Value: label to display in the UI
+dto: DTO and Lombok contexts
+service: Microservice related contexts
+

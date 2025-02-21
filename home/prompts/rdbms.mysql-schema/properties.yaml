@@ -1,0 +1,9 @@
+# Properties for the mysql schema prompt
+object-id: rdbms.mysql-schema
+kind: prompt
+label: Generate MySQL Schema
+summary: This is a prompt for generation of MySQL schema
+published: true
+includes:
+
+

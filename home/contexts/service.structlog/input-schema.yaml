@@ -1,0 +1,7 @@
+type: object
+properties:
+  is_errors:
+    description: True if errors are logged.
+    type: boolean
+required:
+  - is_errors

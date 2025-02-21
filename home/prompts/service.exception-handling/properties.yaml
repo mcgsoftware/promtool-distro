@@ -1,0 +1,9 @@
+# Properties for the Add an endpoint prompt
+object-id: service.exception-handling
+kind: prompt
+label: Generate default exception handling code
+summary: This is a prompt for adding a generic exception handling class.
+published: true
+includes:
+  - service.techstack
+

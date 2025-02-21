@@ -1,0 +1,11 @@
+# Properties for the Add an endpoint prompt
+object-id: service.controller.add-endpoint
+kind: prompt
+label: Add an endpoint to controller
+summary: This is a prompt for adding an endpoint to a controller class
+published: true
+includes:
+  - service.techstack
+  - service.controller
+  - dto.lombok
+

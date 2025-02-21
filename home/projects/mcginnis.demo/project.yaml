@@ -1,0 +1,18 @@
+# Project information
+
+# Required project metadata
+name: CartService
+summary: This is the cart service for the blue sky project
+groupId: com.example.cart
+  
+
+  
+techstack:
+  webframework: Spring Boot 3.7
+  java_version: 21
+  concurrency_model: virtual_threads  # webflux, mvc, virtal_threads
+  resilience: Resilience4j
+  datastore: MySQL
+  caching: Redis
+  value_objects: immutables  # lombok, immutables, record
+  validation: jakarta

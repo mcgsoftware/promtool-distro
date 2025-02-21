@@ -1,0 +1,9 @@
+object-id: service.controller.add-endpoint
+kind: prompt
+label: Add an endpoint to controller
+summary: This is a prompt for adding a NEW endpoint to an existing controller class
+published: true
+includes:
+    - service.techstack
+    - service.controller
+    - dto.lombok

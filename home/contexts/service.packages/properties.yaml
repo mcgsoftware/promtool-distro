@@ -1,0 +1,6 @@
+object-id: service.packages
+kind: context
+label: Explains the service's package and file layout structure
+summary: Explain packages for your service
+published: true
+includes:
